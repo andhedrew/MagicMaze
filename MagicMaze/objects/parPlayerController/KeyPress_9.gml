@@ -1,0 +1,1 @@
+resentment = irandom_range(0, 4);
