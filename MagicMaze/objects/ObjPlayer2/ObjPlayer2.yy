@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "ParPlayer",
-    "path": "objects/ParPlayer/ParPlayer.yy",
+    "name": "parPlayer",
+    "path": "objects/parPlayer/parPlayer.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

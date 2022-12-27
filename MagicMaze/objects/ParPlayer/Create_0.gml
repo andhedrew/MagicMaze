@@ -7,9 +7,10 @@ _v_speed = 0;
 
 key_left = 0;
 key_right = 0;
-
 key_up = 0;
 key_down = 0;
+key_attack = 0;
+key_transport = 0;
 
 
 

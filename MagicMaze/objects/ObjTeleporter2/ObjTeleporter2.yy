@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ObjPlayer4",
+  "name": "ObjTeleporter2",
   "spriteId": {
-    "name": "sPlayer4",
-    "path": "sprites/sPlayer4/sPlayer4.yy",
+    "name": "sTeleport",
+    "path": "sprites/sTeleport/sTeleport.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,8 +12,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "parPlayer",
-    "path": "objects/parPlayer/parPlayer.yy",
+    "name": "parTeleporter",
+    "path": "objects/parTeleporter/parTeleporter.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -27,7 +27,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

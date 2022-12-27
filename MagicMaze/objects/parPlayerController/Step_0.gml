@@ -75,6 +75,11 @@ else
 }
 
 
+///transport
+with focus
+{
+	key_transport = keyboard_check_pressed(vk_space);
+}
 
 if myKeyShift
 {
